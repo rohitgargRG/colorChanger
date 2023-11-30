@@ -1,0 +1,60 @@
+.main{
+    height: 60vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+h2{
+    text-align: center;
+}
+a{
+    width: 120px;
+    height: 20px;
+    border: solid;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+}
+.navbar{
+    background-color: rgb(234, 234, 234);
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: solid;
+    height: 50px;
+}
+.palletes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 7px;
+}
+.button{
+    height: 100px;
+    border: solid;
+    width: 100px;
+}
+#grey{
+    background-color: grey;
+}
+#green{
+    background-color: green;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
+    
